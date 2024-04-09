@@ -1,5 +1,10 @@
 # get-rich-or-die-tryin
 
+### TODO
+- CI (linter, auto-tests)
+- GitLab connection (for issue creation, release and branching. Except if Github issues and actions are sufficient)
+- Fundamentals integration (data source gathering, minimal backtesting setup, architecture and signatures to simply interface strategies, data and backtesting)
+
 # Algorithmic Trading Repository
 
 Welcome to the Algorithmic Trading repository! This repository aims to provide tools, models, and strategies for algorithmic trading, inspired by concepts from the book "Machine Learning For Algorithmic Trading" by Stefan Jansen.
