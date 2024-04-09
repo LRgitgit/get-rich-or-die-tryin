@@ -2,8 +2,18 @@
 
 ### TODO
 - CI (linter, auto-tests)
+    - GitHub actions for python package 
+        - Need to trigger on push from : 
+            - feature to feature
+            - Feature_X to dev
+            - dev to stable
+
 - GitLab connection (for issue creation, release and branching. Except if Github issues and actions are sufficient)
 - Fundamentals integration (data source gathering, minimal backtesting setup, architecture and signatures to simply interface strategies, data and backtesting)
+    - Inspirations for backtesting libs, methods and architecture : 
+        - https://pmorissette.github.io/bt/index.html
+        - https://github.com/cuemacro/finmarketpy
+        - https://www.backtrader.com/
 
 # Algorithmic Trading Repository
 
