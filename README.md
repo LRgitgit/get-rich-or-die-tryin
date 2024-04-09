@@ -1,12 +1,16 @@
 # get-rich-or-die-tryin
 
 ### TODO
-- CI (linter, auto-tests)
+- CI (auto-tests)
     - GitHub actions for python package 
         - Need to trigger on push from : 
             - feature to feature
             - Feature_X to dev
             - dev to stable
+
+- Pre-commit (linters)
+    - flake-8
+    - black
 
 - GitLab connection (for issue creation, release and branching. Except if Github issues and actions are sufficient)
 - Fundamentals integration (data source gathering, minimal backtesting setup, architecture and signatures to simply interface strategies, data and backtesting)
