@@ -1,6 +1,6 @@
 # get-rich-or-die-tryin
 
-### TODO
+### TODO 
 - CI (auto-tests)
     - GitHub actions for python package 
         - Need to trigger on push from : 
