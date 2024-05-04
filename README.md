@@ -4,7 +4,7 @@
 - CI (auto-tests)
     - GitHub actions for python package 
         - Need to trigger on push from : 
-            - feature to feature
+            - feature to feature 
             - Feature_X to dev
             - dev to stable
 
